@@ -1,0 +1,1 @@
+./bootstrap.sh --prefix=/home/acane/projects/acane77.github.io --album-dir=/home/acane/projects/acane77.github.io/album --password=secret --center-face --face-detector=deepface --face-detector-model=yolov8 --face-clustering --generate-api-only -- --face_clustering_eps=0.75 --face_clustering_min_samples=4
